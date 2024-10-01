@@ -1,32 +1,14 @@
+Title: Sprint 1
+Due Date: 9/30?
+Scrum Coach: Owen 
+Tech Lead: Fitsum
+Team Members: Aidan, Jihadu
+
 # blockers
-Tech Lead:
-
-Scrum Coach:
-
-Team Member A:
-
-Team Member B:
+text
 # what did you do yesterday?
-Tech Lead:
-
-Scrum Coach:
-
-Team Member A:
-
-Team Member B:
+text
 # what will you do today?
-Tech Lead:
-
-Scrum Coach:
-
-Team Member A:
-
-Team Member B:
+text
 # how close are we to meeting our sprint goal?
-Tech Lead:
-
-Scrum Coach:
-
-Team Member A:
-
-Team Member B:
+text
