@@ -1,8 +1,8 @@
-Title: Sprint 1
-Due Date: 9/30?
-Scrum Coach: Owen 
-Tech Lead: Fitsum
-Team Members: Aidan, Jihadu
+## Sprint 1
+### Due Date: 9/30?
+### Scrum Coach: Owen 
+### Tech Lead: Fitsum
+### Team Members: Aidan, Jihadu
 
 # blockers
 text
